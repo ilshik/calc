@@ -5,7 +5,7 @@ from PyQt5.QtGui import QIcon
 
 
 class Calculator(QWidget):
-    
+     
     def __init__(self):
         super().__init__()
         self.initUI()
